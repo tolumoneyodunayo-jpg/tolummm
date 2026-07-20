@@ -1,0 +1,16 @@
+{
+  "name": "thrphybot",
+  "version": "1.0.0",
+  "description": "Telegram bot (@thrphybot) — generator functions for Chrome extension assets",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  },
+  "license": "MIT"
+}
